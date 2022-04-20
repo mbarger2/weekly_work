@@ -1,2 +1,1 @@
-# weekly_work
-Weekly Work Projects
+# Weekly Work
