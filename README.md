@@ -5,6 +5,8 @@ position in the field. These exercises will primarily use python in Jupyter and 
 creating/manipulating raw data, web scraping, etc. but occasionally will use MySQL and Tableau as well.
 
 Week 1: Kaggle Dataset
-Week 2: Personal Dataset + Dashboard
-Week 3: Web Scraping
-Week 4: Housing Project continued
+Week 2/3: Personal Dataset + Dashboard
+
+Next:
+Week 4: Web Scraping
+Week 5: Housing Project continued
