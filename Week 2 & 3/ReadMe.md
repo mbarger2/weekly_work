@@ -1,3 +1,2 @@
-This week I will be looking at the stats of my CD collection,
-which I have been compiling for 15 years and had a preexisting, though incomplete,
-excel file documenting each CD.
+This week I will be using Jupyter and Tableau to look at the stats of my CD collection excel page,
+which I have been compiling for 15 years.
