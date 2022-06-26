@@ -14,6 +14,9 @@ my data and did not trim any outliers using methods such as boxplots to discern 
 My accuracy (~71%) with an untrimmed approach is strong but I am curious how much more accurate the model would be
 with the aforementioned technique.
 
+An attempt was made to trim all outliers beyond 2*IQR of all continuous values but accuracy dropped to ~67%. 
+The next attempt will have fewer outliers.
+
 
 
 ## Original Overview
