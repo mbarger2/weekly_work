@@ -9,5 +9,5 @@ Note: this project originally ran on a 'project per week' schedule hence the ini
 (Week 2/3): Personal Dataset + Dashboard
 (Week 4): basic SQL practice
 (Week 5): MB_House_Pricing_Regression expanded (current)
-Project 6: TBD
-Future: more SQL, scraping, tableau, excel VBA
+Project 6: Scraping
+Future: more SQL, scraping, tableau, excel VBA, regex
